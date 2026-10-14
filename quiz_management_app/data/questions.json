@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "text": "What is the capital of France?",
+    "options": [
+      "Paris",
+      "Rome",
+      "Berlin",
+      "Madrid"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 2,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "text": "How many continents are there?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": 3,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "text": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 4,
+    "category": "Python",
+    "difficulty": "Easy",
+    "text": "Which keyword is used to define a function in Python?",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": 5,
+    "category": "Python",
+    "difficulty": "Medium",
+    "text": "What data type does `{1, 2, 3}` represent in Python?",
+    "options": [
+      "List",
+      "Tuple",
+      "Set",
+      "Dictionary"
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": 6,
+    "category": "Python",
+    "difficulty": "Hard",
+    "text": "What does the acronym 'PEP' stand for in the Python world?",
+    "options": [
+      "Python Enhancement Proposal",
+      "Python Execution Plan",
+      "Public Extension Package",
+      "Program Evaluation Process"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 7,
+    "category": "Math",
+    "difficulty": "Easy",
+    "text": "What is 12 x 8?",
+    "options": [
+      "96",
+      "88",
+      "104",
+      "80"
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": 8,
+    "category": "Math",
+    "difficulty": "Medium",
+    "text": "What is the square root of 144?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correct_index": 2
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "username": "admin",
+    "salt": "8299130a859b003f91472c1ac2f6e6e0",
+    "password_hash": "a99af16e2668ba2c7d702f5d2494eb9f6b7954e3bdf73821f633cc24c41bfa45",
+    "role": "admin"
+  },
+  {
+    "username": "anvesh",
+    "salt": "9c9c0465c04a8dd134cd4d45eeabe39e",
+    "password_hash": "7d321fc3573fa8269fe2c2e7b54f12c287cc3f098e7087acc002a4bf33c700ce",
+    "role": "participant"
+  }
+]
